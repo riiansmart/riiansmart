@@ -16,7 +16,7 @@ I'm passionate about creating solutions for common problems and exploring the in
 
 ## 📌 Featured Projects
 
-Check out my favorite projects pinned on my [GitHub profile](https://github.com/riiannsmart?tab=pinned)!  
+Check out my favorite projects pinned on my [GitHub profile](https://github.com/riiansmart?tab=pinned)!  
 Feel free to explore, open an issue, or contribute.
 
 ---
