@@ -16,16 +16,16 @@ I'm passionate about creating solutions for common problems and exploring the in
 
 ## 📌 Featured Projects
 
-- **[Personal Portfolio](https://github.com/riiannsmart/portfolio-app)**  
+- **[Personal Portfolio](https://github.com/riiansmart/portfolio-app)**  
   A sleek, personal website to showcase my work, skills, and journey in tech. Built with modern web technologies and a focus on responsive, user-friendly design.
 
-- **[TaskFlow](https://github.com/riiannsmart/taskflow_app)**  
+- **[TaskFlow](https://github.com/riiansmart/taskflow_app)**  
   A productivity app designed to help users organize, track, and accomplish tasks efficiently. Features intuitive UI and robust task management capabilities.
 
 - **[CineScope](https://github.com/omniV1/CineScope)**  
   A movie discovery platform that lets users browse, search, and get insights on the latest films. Built for film enthusiasts with a passion for great UI/UX.
 
-- **[CardMaxxing](https://github.com/riiannsmart/CardMaxxing)**  
+- **[CardMaxxing](https://github.com/riiansmart/CardMaxxing)**  
   A tool for optimizing and analyzing credit card rewards strategies. Helps users maximize points and benefits with ease and clarity.
 
 ---
